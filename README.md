@@ -22,14 +22,12 @@
 ## Диаграммы интерфейсов
 ![Alt-текст](http://joxi.ru/DmBJklgUwalglm.jpg "Диаграмма интерфейсов")
 ## Список всех интерфейсов
-* [IClient](https://github.com/polinanch/Documents/blob/master/ICLients.md "Интерфейс IClient")
-* [ICourses](https://github.com/polinanch/Documents/blob/master/ICourses.md "Интерфейс ICourses")
-* [IGroup](https://github.com/polinanch/Documents/blob/master/IGroup.md "Интерфейс IGroup")
-* [IRepayment](https://github.com/polinanch/Documents/blob/master/IRepayment.md "Интерфейс IRepayment")
-* [ISalary](https://github.com/polinanch/Documents/blob/master/ISalary.md "Интерфейс ISalary")
-* [ISchedule](https://github.com/polinanch/Documents/blob/master/ISchedule.md "Интерфейс ISchedule")
-* [ITeacher](https://github.com/polinanch/Documents/blob/master/ITeacher.md "Интерфейс ITeacher")
-
-
-
-
+* [iSubject_pledge](iSubject_pledge.md "Интерфейс iSubject_pledge")
+* [iPay](iPay.md "Интерфейс iPay")
+* [iManager](iManager.md "Интерфейс iManager")
+* [iFilials](iFilials.md "Интерфейс iFilials")
+* [iContract](iContract.md "Интерфейс iContract")
+* [iClient](iClient.md "Интерфейс iClient")
+* [Filials](Filials.md "Интерфейс Filials")
+* [Contract](Contract.md "Интерфейс Contract")
+* [Client](Client.md "Интерфейс Client")

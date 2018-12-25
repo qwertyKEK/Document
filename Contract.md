@@ -3,10 +3,10 @@
 
 ## Атрибуты
 
-* Date : : DateTime
+* Date : DateTime
 * Guaranteed_shelf_life : Int
 * ID : Int
-* ID_clients : : [Client](Client.md)
+* ID_clients : [Client](Client.md)
 * ID_filial : [Filials](Filials.md)
 * Loan_size : Float
 * max_srok_zaloga : Int
@@ -18,10 +18,10 @@
 
 ## Описание атрибутов
 
-* Date : : DateTime Дата
+* Date : DateTime Дата
 * Guaranteed_shelf_life : Int Гарантированных срок хранения
 * ID : Int Ид
-* ID_clients : : [Client](Client.md) Ид клиента
+* ID_clients : [Client](Client.md) Ид клиента
 * ID_filial : [Filials](Filials.md) Ид филиала
 * Loan_size : Float Размер ссуды
 * max_srok_zaloga : Int Максимальный срок залога
