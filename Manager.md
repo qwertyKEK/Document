@@ -8,5 +8,5 @@
 
 ## Описание атрибутов
 
-* ID_filiala : [Filials](Filials.md) Ид филиала
+* ID_filiala : [Filial](Filial.md) Ид филиала 
 * Schedule : string График работы
