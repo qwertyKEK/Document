@@ -2,6 +2,7 @@
 Интерфейс предназначен для работы с методами класса Subject_pledge
 
 ## Реализация интерфейса
+* + Add (Subject_pledge: [Subject_pledge](Subject_pledge.md)): Int — функция, добавляющая предмет залога в базу данных.
 * + Delete(Id : Int) : Bool Функция удаляющая предметы залога
 * + FindBySubject_pledgeNum(Subject_pledgeID : int) : [Subject_pledge](Subject_pledge.md)  функция, осуществляющая поиск предмета залога в базе данных по ID и возвращающая найденный, если такой есть.
 * + FindByTitle(title_Subject_pledge : string) : [Subject_pledge](Subject_pledge.md)  функция, осуществляющая поиск платежа в базе данных по названию.
@@ -14,4 +15,4 @@
 	* page: int — отвечает, с какой страницы начинать поиск элементов.
 
 * + GetStatus(Subject_pledge_ID : string) : [Subject_pledge](Subject_pledge.md)
-* + Save(Subject_pledge : int) : Bool функция, редактирующая данные о предмете залога.
+* + Save(Subject_pledge : [Subject_pledge](Subject_pledge.md)) : Bool функция, редактирующая данные о предмете залога.

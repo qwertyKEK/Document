@@ -2,6 +2,7 @@
 Интерфейс предназначен для работы с методами класса Filial
 
 ## Реализация интерфейса
+* + AddFilial(FilialID : int, ManagerID : Int) : Bool функция добавляющая филиал
 * + AddManagerFromFilial(FilialID : int, ManagerID : Int) : Bool функция добавляющая менеджера в филиал
 * + AddSubjectPledgeFomFilial(FilialID : Int, Subject_pledgeID : Int) : Bool  функция добавляющая предмет залога в филиал
 * + Delete(Id : Int) : Bool Функция удаляющая филиалы
@@ -16,4 +17,4 @@
 
 * + GetAllManagers(FilialID : Int) : List <[Manager](Manager.md)> функция получающая список менеджеров
 * + GetAllSubjectPledge(FilialID : int) : List <[Subject_pledge](Subject_pledge.md)> функция получающая список предметов залога
-* + Save(Filial : Int) : Bool  функция, редактирующая данные о филиале.
+* + Save(Filial : [Filial](Filial.md)) : Bool  функция, редактирующая данные о филиале.
