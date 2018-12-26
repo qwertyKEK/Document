@@ -8,7 +8,6 @@
 * DatePay : DateTime
 * ed_Izm : String
 * ID : Int
-* ID_catalog : [Catalog](Catalog.md)
 * ID_Clients_Pay : [Client](Client.md)
 * ID_contract : [Contract](Contract.md)
 * ID_subject : Int
@@ -26,7 +25,6 @@
 * DatePay : DateTime Дата
 * ed_Izm : String Единица измерения
 * ID : Int ИД
-* ID_catalog : [Catalog](Catalog.md) ИД каталога
 * ID_Clients_Pay : [Client](Client.md) Ид клиента по платежам
 * ID_contract : [Contract](Contract.md) Ид контракта
 * ID_subject : Int Ид предмета

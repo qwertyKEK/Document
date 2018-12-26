@@ -28,6 +28,3 @@
 * [iFilial](iFilial.md "Интерфейс iFilial")
 * [iContract](iContract.md "Интерфейс iContract")
 * [iClient](iClient.md "Интерфейс iClient")
-* [Filial](Filial.md "Интерфейс Filial")
-* [Contract](Contract.md "Интерфейс Contract")
-* [Client](Client.md "Интерфейс Client")
