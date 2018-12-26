@@ -7,7 +7,7 @@
 * Guaranteed_shelf_life : Int
 * ID : Int
 * ID_clients : [Client](Client.md)
-* ID_filial : [Filials](Filials.md)
+* ID_filial : [Filial](Filial.md)
 * Loan_size : Float
 * max_srok_zaloga : Int
 * min_srok_zaloga : Int
@@ -22,7 +22,7 @@
 * Guaranteed_shelf_life : Int Гарантированных срок хранения
 * ID : Int Ид
 * ID_clients : [Client](Client.md) Ид клиента
-* ID_filial : [Filials](Filials.md) Ид филиала
+* ID_filial : [Filial](Filial.md) Ид филиала
 * Loan_size : Float Размер ссуды
 * max_srok_zaloga : Int Максимальный срок залога
 * min_srok_zaloga : Int Минимальный срок залога
